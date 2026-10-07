@@ -15,7 +15,6 @@ Capstone project of the **IBM Data Analyst Professional Certificate**.
 
 | Resource | Link |
 |---|---|
-| Interactive dashboard (Google Looker Studio) | **[Open the dashboard](LOOKER_STUDIO_LINK_HERE)** <!-- Replace LOOKER_STUDIO_LINK_HERE with your Looker Studio share link --> |
 | Presentation (PDF) | [Developer_Technology_Trends_Vincenzo_Ambrosino.pdf](presentation/Developer_Technology_Trends_Vincenzo_Ambrosino.pdf) |
 | Presentation (PowerPoint) | [Developer_Technology_Trends_Vincenzo_Ambrosino.pptx](presentation/Developer_Technology_Trends_Vincenzo_Ambrosino.pptx) |
 | Notebooks | [`notebooks/`](notebooks/) |
@@ -62,7 +61,6 @@ Capstone project of the **IBM Data Analyst Professional Certificate**.
 ## Dashboard
 
 The Google Looker Studio dashboard has three tabs: **Current Technology Usage**, **Future Technology Trends** and **Demographics**.
-**[Open the interactive dashboard](LOOKER_STUDIO_LINK_HERE)**
 
 ![Dashboard tab 1: current technology usage](images/dashboard_tab1.jpg)
 
