@@ -16,7 +16,7 @@ Capstone project of the **IBM Data Analyst Professional Certificate**.
 | Resource | Link |
 |---|---|
 | Presentation (PDF) | [Developer_Technology_Trends_Vincenzo_Ambrosino.pdf](presentation/Developer_Technology_Trends_Vincenzo_Ambrosino.pdf) |
-| Presentation (PowerPoint) | [Developer_Technology_Trends_Vincenzo_Ambrosino.pptx](presentation/Developer_Technology_Trends_Vincenzo_Ambrosino.pptx) |
+| Presentation (PowerPoint, with animations) | [Developer_Technology_Trends_Vincenzo_Ambrosino.pptx](presentation/Developer_Technology_Trends_Vincenzo_Ambrosino.pptx) |
 | Notebooks | [`notebooks/`](notebooks/) |
 
 ---
